@@ -781,7 +781,7 @@ span {
     }
 
     .timeline-item:nth-child(odd), .timeline-item:nth-child(even) {
-        padding-right : inherit;
+        padding-right : 0px;
         padding-left: 37px;
     }
 
